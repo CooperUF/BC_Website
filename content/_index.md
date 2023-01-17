@@ -242,7 +242,7 @@ sections:
         postcode: '15213'
         country: United States
         country_code: US
-      directions: Enter Building, take elevators to Floor 5, turn right and head to Office 5238
+      directions: Enter Building, take elevator to Floor 5, turn right and head to Office 5238
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
