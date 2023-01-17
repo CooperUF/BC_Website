@@ -192,7 +192,7 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-  - block: collection
+  - block: portfolio
     content:
       title: Recent Publications
       text: |-
