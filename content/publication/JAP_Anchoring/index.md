@@ -39,9 +39,9 @@ abstract: In this article we explore the effect of encounters with rudeness on t
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: APA PsycArticles:
-   url: https://doi.org/10.1037/apl0000914
+# links:
+# - name: APA PsycArticles:
+#   url: https://doi.org/10.1037/apl0000914
 
 url_pdf: ''
 url_code: ''
