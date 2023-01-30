@@ -69,7 +69,7 @@ sections:
              * Balancing Honesty with Benevolence to Deliver Difficult Feedback
              * Teasing as "a Social Lubricant" in Teams
 
-        - title: Organizational Consultant
+        - title: Organizational Analyst
           company: Tmurot TPS
           company_url: 'https://www.tmurot.com/tmurot/english/e-index.html'
           company_logo: 
